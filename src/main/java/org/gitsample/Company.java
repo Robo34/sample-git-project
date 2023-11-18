@@ -4,7 +4,7 @@ public class Company {
 	
 
 	//Change 2
-
+	private String test;
 	//Change 1
 
 	private String name;
