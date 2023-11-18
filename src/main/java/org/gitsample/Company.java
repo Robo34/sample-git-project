@@ -9,9 +9,11 @@ public class Company {
 
 	private String name;
 	private String address;
-	
+
+	private int surname;
+
 	private int salary;
-	
+
 	public String getName() {
 		return name;
 	}
